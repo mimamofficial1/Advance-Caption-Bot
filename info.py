@@ -26,8 +26,8 @@ API_HASH = str(getenv("API_HASH", "
 e50b6c6e9dc8077ec3e9db0e565631e4
 
 "))
-BOT_TOKEN = str(getenv("BOT_TOKEN", "7371798309:AAE0Xs5zzxxSzGzKOoAXVrw9ZL475YGWkzI"))
-FORCE_SUB = os.environ.get("FORCE_SUB", "https://t.me/MOVIES_WORLDZS") 
+BOT_TOKEN = str(getenv("BOT_TOKEN", ""))
+FORCE_SUB = os.environ.get("FORCE_SUB", "-1002006400723") 
 MONGO_DB = str(getenv("MONGO_DB", "mongodb+srv://mrnoffice692:PsO4VGHI9heKd7WA@cluster0.o1vcj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",))
 DEF_CAP = str(
     getenv(
