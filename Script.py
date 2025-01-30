@@ -41,7 +41,7 @@ Eg:- `/set_cap
 
     ABOUT_TXT = """<b>╔════❰ ᴀᴜᴛᴏ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼📃ʙᴏᴛ : <a href='https://t.me/CustomCaptionBot'>Auto Caption</a>
+║┣⪼📃ʙᴏᴛ : <a href='http://t.me/AV_AutoCaptions_Bot'>Auto Caption</a>
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : <a href='https://t.me/MOVIES_WORLDZS'>Sɪʟɪᴄᴏɴ Dᴇᴠᴇʟᴏᴘᴇʀ ⚠️</a>
 ║┣⪼🤖Uᴘᴅᴀᴛᴇ : <a href='https://t.me/MOVIES_WORLDZS'>Sɪʟɪᴄᴏɴ Bᴏᴛᴢ™</a>
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
