@@ -14,13 +14,13 @@ def is_enabled(value, default):
         return default
 
 
-ADMIN = int(getenv("ADMIN", "6570474744"))
-SILICON_PIC = os.environ.get("SILICON_PIC", "https://telegra.ph/file/21a8e96b45cd6ac4d3da6.jpg")
-API_ID = int(getenv("API_ID", "16402669"))
-API_HASH = str(getenv("API_HASH", "e50b6c6e9dc8077ec3e9db0e565631e4"))
-BOT_TOKEN = str(getenv("BOT_TOKEN", "7371798309:AAE0Xs5zzxxSzGzKOoAXVrw9ZL475YGWkzI"))
-FORCE_SUB = os.environ.get("FORCE_SUB", "https://t.me/MOVIES_WORLDZS") 
-MONGO_DB = str(getenv("MONGO_DB", "mongodb+srv://mrnoffice692:PsO4VGHI9heKd7WA@cluster0.o1vcj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",))
+ADMIN = int(getenv("ADMIN", ""))
+SILICON_PIC = os.environ.get("SILICON_PIC", "")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = str(getenv("API_HASH", ""))
+BOT_TOKEN = str(getenv("BOT_TOKEN", ""))
+FORCE_SUB = os.environ.get("FORCE_SUB", "") 
+MONGO_DB = str(getenv("MONGO_DB", "",))
 DEF_CAP = str(
     getenv(
         "DEF_CAP",
